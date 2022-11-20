@@ -9,5 +9,4 @@ Also figure out which BeyondExams category would this video be most suitable for
 Build a chrome extension that calculates how much time you spent learning about which domains. How much time you spend on non-educational videos.
 
 
-our duo team is new to hackathon so we need more time for next 2 questions .So, we will commit the changes in the readme file as soon as we find out how should we proceed.
-Thank you for understanding us. 
+
